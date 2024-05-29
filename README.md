@@ -7,3 +7,4 @@ provides the possibility of selecting and displaying an image from the file prov
 
 to it or making changes in the image.
 
+![Uploading Image 5-29-24 at 9.53 PM.jpg…]()
