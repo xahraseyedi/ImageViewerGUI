@@ -13,7 +13,7 @@ At first, by running the program, the following screen will open:
 
 By clicking the Select button, the following page will open:
 
-
+![photo-output](https://github.com/xahraseyedi/ImageViewerGUI/assets/167974882/f36d476f-87ca-463a-b9b8-367f4118cc67)
 
 
 
