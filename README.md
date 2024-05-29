@@ -13,7 +13,10 @@ At first, by running the program, the following screen will open:
 
 By clicking the Select button, the following page will open:
 
-![photo-output](https://github.com/xahraseyedi/ImageViewerGUI/assets/167974882/f36d476f-87ca-463a-b9b8-367f4118cc67)
+![photo-output](https://github.com/xahraseyedi/ImageViewerGUI/assets/167974882/e2874927-279d-4bb4-b12f-24c54e4983f0)
+
+Then the user selects the desired photo file.
+After selecting the file, you can apply changes to the image with the help of other parts.
 
 
 
