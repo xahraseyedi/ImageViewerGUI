@@ -22,7 +22,7 @@ By clicking the Show Image button, the image selected in the previous section wi
 ![photo-output copy](https://github.com/xahraseyedi/ImageViewerGUI/assets/167974882/a1a3bfb6-53f1-4937-8c20-7207e764428a)
 
 By clicking the Brightness button, we enter a new panel.
-In this section, the user can change the brightness of the image and enter a number between 0 and 1. By clicking on the Show Result button, the new image will be shown in a new panel.
+In this section, the user can change the brightness of the image and enter a number between 0 and 1. By clicking on the Show Result button, the new image will be shown in a new frame.
 
 ![Image 5-30-24 at 8 08 AM (1)](https://github.com/xahraseyedi/Calculator-Java/assets/167974882/2dc3de60-558c-4adb-b853-9e208d22377a)
 
@@ -33,7 +33,7 @@ By clicking  the Gray Scale button, the image will be displayed in Gray Scale.
 ![photo-output copy](https://github.com/xahraseyedi/Calculator-Java/assets/167974882/ab2d758b-4e6b-429e-9d3b-708a188aec64)
 
 By clicking the Resize button, the following panel will be displayed in the same frame as before.
-In this section, the user can change the dimensions of the image by entering the new length and width, and by clicking the Result button the image with new dimensions will be shown in new panle.
+In this section, the user can change the dimensions of the image by entering the new length and width, and by clicking the Result button the image with new dimensions will be shown in new frame.
 
 ![Image 5-30-24 at 8 21 AM](https://github.com/xahraseyedi/Calculator-Java/assets/167974882/25bc1516-92ed-47fe-b5ff-ddd51427dd4d)
 
