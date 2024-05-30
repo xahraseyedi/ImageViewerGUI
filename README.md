@@ -19,4 +19,9 @@ Then the user selects the desired photo file.
 After selecting the file, you can apply changes to the image with the help of other parts.
 
 
+By clicking the Show Image button, the photo selected in the previous section will be displayed in a new panel.
+
+![photo-output copy](https://github.com/xahraseyedi/ImageViewerGUI/assets/167974882/a1a3bfb6-53f1-4937-8c20-7207e764428a)
+
+
 
