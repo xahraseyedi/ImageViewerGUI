@@ -30,6 +30,16 @@ In this section, the user can change the brightness of the image and enter a num
 
 ![photo-output](https://github.com/xahraseyedi/Calculator-Java/assets/167974882/ef637d82-8a77-4d5a-b5c9-0ca6d30802ec)
 
+By clicking  the Gray Scale button, the image will be displayed in Gray Scale.
+
+![photo-output copy](https://github.com/xahraseyedi/Calculator-Java/assets/167974882/ab2d758b-4e6b-429e-9d3b-708a188aec64)
+
+By clicking the Resize button, the following panel will be displayed in the same frame as before.
+In this section, the user can change the dimensions of the image by entering the new length and width, and by clicking the Result button the image with new dimensions will be shown in new panle.
+
+![Image 5-30-24 at 8 21 AM](https://github.com/xahraseyedi/Calculator-Java/assets/167974882/25bc1516-92ed-47fe-b5ff-ddd51427dd4d)
+
+![photo-output copy 2](https://github.com/xahraseyedi/ATM-Java/assets/167974882/67b00207-6442-4d33-8328-a3da439f80c3)
 
 
 
